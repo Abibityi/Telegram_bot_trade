@@ -5,7 +5,7 @@ import threading
 import requests
 
 # ================== تنظیمات ==================
-API_TOKEN = "8331622449:AAFoLzxC9lyGJDchsQpKpYxgIduUbsUuOys"
+API_TOKEN = "8464536057:AAEOrBqeeNqv3ijun2Zkc9REzfGWffvgkRk"
 bot = telebot.TeleBot(API_TOKEN)
 
 # برای هر کاربر یک لیست ولت ذخیره می‌کنیم
